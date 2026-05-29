@@ -3,7 +3,7 @@
 Site vitrine responsive pour une marque fictive d'équipement de camping.
 Projet d'entraînement personnel axé sur la mise en page multi-sections et l'intégration d'images produits.
 
-lien du site : bryscampinggear.netlify.app
+lien du site : camping-gear-kohl.vercel.app/
 
 ##  Ce que contient le projet
 - Section hero avec visuel immersif
